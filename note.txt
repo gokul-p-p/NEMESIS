@@ -1,0 +1,19 @@
+git and git hub
+-----------
+
+git
+----
+vcm-version control system
+scm-software confihuration management
+
+push -local repositary to remote repositary(uploading new project and changes)
+clone -remote repositary to local repositary(downloading exact copy of projects)
+pull -remote repositary to local repositary(downloading changes) 
+
+
+
+push
+----
+1.add
+2.commit
+3.push

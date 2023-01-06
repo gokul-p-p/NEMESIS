@@ -1,0 +1,110 @@
+body{
+    background-color: black;
+    text-align: center;
+    
+    
+} 
+#H1{
+    background-color: rgb(38, 131, 64);
+    color: rgb(210, 166, 20);
+}
+.a{
+    width: 100%;
+    height: 1000px;
+    background-color: black;
+    position: relative;
+    top: -10px;
+
+  
+}
+.col{
+    width: 19%;
+    height: 900px;
+    background-color: black;
+    border: 3px white solid;
+    position: absolute;
+border-radius: 50px;
+top: 20px;
+
+
+
+}
+.col-1
+{
+    left:20%;
+    
+}
+.col-2
+{
+    left:40%;
+}
+.col-3
+{
+    left:60%;
+}
+.col-4
+{
+    left:80%;
+}
+.col-5
+{
+    left: 0%;
+}
+
+img{
+    width: 75%;
+    height: 200px;
+    border-radius:20px ;
+    padding-top: 40PX;
+  
+  
+}
+H3{
+    color: rgb(69, 10, 170);
+}
+p{
+    color: white;
+    padding: 20PX;
+  text-align: left;
+}
+
+.z1{
+    margin-top: -30px;}
+    
+#z1{
+    margin-top: -30px;
+}
+
+.v1{
+    position: absolute;
+    width: 60%;
+    height: 50px;
+    background-color: rgb(156, 156, 122);
+    border-radius: 20px;
+    left:20% ;
+}
+.v3{
+    position: absolute;
+    top: 93%;
+}
+.v4{
+    position: absolute;
+    top: 93%;
+}
+.v5{
+    position: absolute;
+    top: 93%;
+}
+.v6{
+    position: absolute;
+    top: 93%;
+}
+.v2{
+    position: absolute;
+    top: 93%;
+}
+#n1{
+    color: rgb(20, 81, 67);
+  text-align: center;
+ 
+}
